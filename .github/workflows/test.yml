@@ -14,15 +14,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token
-          # The following scopes are required:
-          #  - public_access (default scope)
-          # The following additional scopes may be required:
-          #  - read:org      (for organization related metrics)
-          #  - read:user     (for user related data)
-          #  - read:packages (for some packages related data)
-          #  - repo          (optional, if you want to include private repositories)
-          token: ${{ secrets.TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
           user: devddine
@@ -33,10 +25,11 @@ jobs:
           base_skip: yes
           config_timezone: Africa/Casablanca
           plugin_steam: yes
+          plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
           plugin_steam_achievements_limit: 2
           plugin_steam_games_limit: 1
           plugin_steam_playtime_threshold: 2
           plugin_steam_recent_games_limit: 1
           plugin_steam_sections: player, most-played, recently-played
-          plugin_steam_user: 76561198849298815
+          plugin_steam_user: devddine
           repositories_forks: yes
