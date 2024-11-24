@@ -1,4 +1,4 @@
-name: Waka Readme
+name: Waka
 
 on:
   # for manual workflow trigger
@@ -20,7 +20,7 @@ jobs:
           API_BASE_URL: https://wakatime.com/api # optional
           ### content
           SHOW_TITLE: true # optional
-          SECTION_NAME: stats # optional
+          SECTION_NAME: waka # optional
           BLOCKS: -> # optional
           CODE_LANG: yaml # optional
           TIME_RANGE: all_time # optional
