@@ -1,25 +1,24 @@
+
+<div align="center">
+  <img align="center" src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+</div>
+
 <div align="center">
   <img src="https://media.licdn.com/dms/image/v2/D5616AQF_DbSd5HIJQA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1709754262012?e=1738195200&v=beta&t=6vGzk4r1HEE-KTNyUY_AjOauA8_tE1OdqHZ3H-tDTc0"  />
 </div>
 
-###
-
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=000&logoColor=white&labelColor=000&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=000&logoColor=white&labelColor=000&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-  <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=000&logoColor=white&labelColor=000&style=for-the-badge" height="25" alt="behance logo"  />
-  <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
+  <img align="right" src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
+  <img align="left" src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=000&logoColor=white&labelColor=000&style=for-the-badge" height="25" alt="behance logo"  />
 </div>
 
 ###
 
-<h3 align="center">👩‍💻  About Me</h3>
+<h3 align="center">• • •</h3>
 
 ###
 
-<p align="center">
+<div>
 
 ```rust
 name: Alae-EDdine Taoubane
@@ -35,12 +34,12 @@ currently_learning: ["JavaScript", "React", "Python"]
 will_learn: ["Node.js", "Next.js", "TypeScript"]
 hobbies: ["Competitive Gaming", "Scripting", "Creating Content", "Digital Designer"]
 ```
- 
-</p>
+
+</div>
 
 ###
 
-<h3 align="center">📊 Weekly development breakdown</h3>
+<h3 align="center">• • •</h3>
 
 ###
 
@@ -69,7 +68,7 @@ Text         7 mins          =========================   00.25 %
 
 ###
 
-<h3 align="center">🛠 Language and tools</h3>
+<h3 align="center">• • •</h3>
 
 ###
 
@@ -105,11 +104,11 @@ Text         7 mins          =========================   00.25 %
 
 ###
 
-<h3 align="center">🔥 Stats</h3>
+<h3 align="center">• • •</h3>
 
 ###
 
-<h3 align="center">🎡 Others</h3>
+<h3 align="center">• • •</h3>
 
 ###
 
@@ -121,7 +120,7 @@ Text         7 mins          =========================   00.25 %
 
 ###
 
-<h3 align="center">📩 Contact Me</h3>
+<h3 align="center">• • •</h3>
 
 ###
 
