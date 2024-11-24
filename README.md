@@ -109,7 +109,7 @@ Text         7 mins          =========================   00.25 %
 
 ###
 
-<h3 align="center">🎡 Other</h3>
+<h3 align="center">🎡 Others</h3>
 
 ###
 
