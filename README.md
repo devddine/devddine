@@ -46,7 +46,7 @@ hobbies: ["Competitive Gaming", "Scripting", "Creating Content", "Digital Design
 
 <p align="center">
 
-<!--START_SECTION:waka-->
+<!--START_SECTION:1-->
 
 ```yaml
 From: 05 November 2024 - To: 23 November 2024
@@ -65,7 +65,7 @@ Markdown     13 mins         -------------------------   00.48 %
 Text         7 mins          -------------------------   00.25 %
 ```
 
-<!--END_SECTION:waka-->
+<!--END_SECTION:1-->
  
 </p>
 
