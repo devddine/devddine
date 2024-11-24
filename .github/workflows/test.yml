@@ -30,7 +30,7 @@ jobs:
           plugin_leetcode_sections: solved
           plugin_leetcode_user: devddine
           plugin_wakatime: yes
-          plugin_wakatime_days: 365
+          plugin_wakatime_days: 7
           plugin_wakatime_limit: 5
           plugin_wakatime_repositories_visibility: all
           plugin_wakatime_sections: time, languages, languages-graphs, editors, os
