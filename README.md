@@ -20,7 +20,7 @@ hobbies: ["Competitive Gaming", "Scripting", "Creating Content", "Digital Design
 
 <!--START_SECTION:waka-->
 
-```rust
+```yaml
 From: 05 November 2024 - To: 23 November 2024
 
 Total Time: 47 hrs 40 mins
