@@ -42,4 +42,14 @@ hobbies: ["Competitive Gaming", "Scripting", "Creating Content", "Digital Design
 </table>
 
 <!--START_SECTION:waka-->
+
+```yaml
+From: 05 November 2024 - To: 23 November 2024
+
+Total Time: 47 hrs 40 mins
+
+JavaScript   18 hrs 21 mins  >>>>>>>>>>---------------   38.49 %
+Other        9 hrs 27 mins   >>>>>--------------------   19.84 %
+```
+
 <!--END_SECTION:waka-->
