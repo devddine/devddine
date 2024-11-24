@@ -1,9 +1,7 @@
 <div width="100%" align="center">
 <img src="https://socialify.git.ci/devddine/devddine/image?description=1&descriptionEditable=Full%20Stack%20Developer&font=Jost&forks=1&issues=1&language=1&name=1&pattern=Solid&pulls=1&stargazers=1&theme=Dark" alt="devddine" />
  </div> 
-<table width="100%" style="table-layout: fixed;">
-  <tr>
-  <td width="100%" colspan="2">
+
    
 ```yaml
 name: Alae-EDdine Taoubane
@@ -21,6 +19,19 @@ will_learn: ["Node.js", "Next.js", "TypeScript"]
 hobbies: ["Competitive Gaming", "Scripting", "Creating Content", "Digital Designer"]
 ```
 
+<!--START_SECTION:waka-->
+
+```yaml
+From: 05 November 2024 - To: 23 November 2024
+
+Total Time: 47 hrs 40 mins
+
+JavaScript   18 hrs 21 mins  >>>>>>>>>>---------------   38.49 %
+Other        9 hrs 27 mins   >>>>>--------------------   19.84 %
+```
+
+<!--END_SECTION:waka-->
+<table width="100%">
   <tr>
   <td width="50%">
 
@@ -41,24 +52,5 @@ hobbies: ["Competitive Gaming", "Scripting", "Creating Content", "Digital Design
   </td>
 
 </table>
-<!--START_SECTION:waka-->
 
-```yaml
-From: 05 November 2024 - To: 23 November 2024
-
-Total Time: 47 hrs 40 mins
-
-JavaScript   18 hrs 21 mins  >>>>>>>>>>---------------   38.49 %
-Other        9 hrs 27 mins   >>>>>--------------------   19.84 %
-CSS          6 hrs 24 mins   >>>----------------------   13.44 %
-YAML         4 hrs 5 mins    >>-----------------------   08.57 %
-JSON         3 hrs 7 mins    >>-----------------------   06.55 %
-HTML         2 hrs 55 mins   >>-----------------------   06.13 %
-Python       2 hrs 31 mins   >------------------------   05.30 %
-PHP          18 mins         -------------------------   00.65 %
-Markdown     13 mins         -------------------------   00.48 %
-Text         7 mins          -------------------------   00.25 %
-```
-
-<!--END_SECTION:waka-->
   </td>
