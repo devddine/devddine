@@ -1,7 +1,7 @@
 <div width="100%" align="center">
 <img src="https://socialify.git.ci/devddine/devddine/image?description=1&descriptionEditable=Full%20Stack%20Developer&font=Jost&forks=1&issues=1&language=1&name=1&pattern=Solid&pulls=1&stargazers=1&theme=Dark" alt="devddine" />
  </div> 
-<table width="100%">
+<table width="100%" style="table-layout: fixed;">
   <tr>
   <td width="100%" colspan="2">
    
