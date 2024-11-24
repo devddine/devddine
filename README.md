@@ -30,8 +30,8 @@ education: ["Diploma's in Full Stack Development", "Licence's in Business Manage
 fields_of_interests: ["Web Development", "Database Management", "API Integration", "Cloud Computing", 
                       "UI/UX Design", "Machine Learning", "Testing and Debugging"]
 technical_background: ["Frontend Development", "Backend Development", "Version Control", "Databases"]
-currently_learning: ["JavaScript", "React", "Python"]
-will_learn: ["Node.js", "Next.js", "TypeScript"]
+currently_learning: ["JavaScript", "Node.js", "Python"]
+will_learn: ["React", "Next.js", "TypeScript"]
 hobbies: ["Competitive Gaming", "Scripting", "Creating Content", "Digital Designer"]
 ```
 
@@ -44,7 +44,6 @@ hobbies: ["Competitive Gaming", "Scripting", "Creating Content", "Digital Design
 ###
 
 <p align="center">
-
 <!--START_SECTION:1-->
 
 ```rust
@@ -63,7 +62,6 @@ Text         7 mins          -------------------------   00.25 %
 ```
 
 <!--END_SECTION:1-->
- 
 </p>
 
 ###
@@ -73,33 +71,37 @@ Text         7 mins          -------------------------   00.25 %
 ###
 
 <div align="center">
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" alt="figma logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="40" alt="githubactions logo"  />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="githubactions logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=regex" height="40" alt="regex logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/svg/FFB13B" height="40" alt="svg logo"  />
+  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="40" alt="adobephotoshop logo"  />
+  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=svg" height="40" alt="svg logo"  />
 </div>
 
 ###
@@ -126,10 +128,15 @@ Text         7 mins          -------------------------   00.25 %
 
 <div align="center">
   <a href="mail:devddine@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://x.com/devddine" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+    <img width="12" />
+  <a href="#" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" height="40" alt="slack logo"  />
+  </a>
+    <img width="12" />
+  <a href="#" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" height="40" alt="twitter logo"  />
   </a>
 </div>
 
