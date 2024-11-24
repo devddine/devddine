@@ -21,7 +21,7 @@ jobs:
           ### content
           SHOW_TITLE: false # optional
           SECTION_NAME: 1 # optional
-          BLOCKS: => # optional
+          BLOCKS: -> # optional
           CODE_LANG: rust # optional
           TIME_RANGE: all_time # optional
           LANG_COUNT: 10 # optional
