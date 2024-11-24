@@ -19,10 +19,10 @@ jobs:
           ### meta
           API_BASE_URL: https://wakatime.com/api # optional
           ### content
-          SHOW_TITLE: true # optional
-          SECTION_NAME: waka # optional
-          BLOCKS: -> # optional
-          CODE_LANG: yaml # optional
+          SHOW_TITLE: false # optional
+          SECTION_NAME: 1 # optional
+          BLOCKS: => # optional
+          CODE_LANG: rust # optional
           TIME_RANGE: all_time # optional
           LANG_COUNT: 10 # optional
           SHOW_TIME: true # optional
