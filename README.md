@@ -10,7 +10,8 @@ name: Alae-EDdine Taoubane
 located_in: Marrakesh, Morocco
 from: Tan-Tan (Morocco)
 job: Full-Stack Developer
-education: ["Diploma's in Full Stack Development", "Licence's in Business Management", "bachelor's in Experimental Sciences"]
+education: ["Diploma's in Full Stack Development", "Licence's in Business Management",
+              "bachelor's in Experimental Sciences"]
 fields_of_interests: ["Web Development", "Database Management", "API Integration", "Cloud Computing", 
                       "UI/UX Design", "Machine Learning", "Testing and Debugging"]
 technical_background: ["Frontend Development", "Backend Development", "Version Control", "NoSQL Databases", 
@@ -19,6 +20,18 @@ currently_learning: ["JavaScript", "React", "Python"]
 will_learn: ["Node.js", "Next.js", "TypeScript"]
 hobbies: ["Competitive Gaming", "Scripting", "Creating Content", "Digital Designer"]
 ```
+<!--START_SECTION:waka-->
+
+```yaml
+From: 05 November 2024 - To: 23 November 2024
+
+Total Time: 47 hrs 40 mins
+
+JavaScript   18 hrs 21 mins  >>>>>>>>>>---------------   38.49 %
+Other        9 hrs 27 mins   >>>>>--------------------   19.84 %
+```
+
+<!--END_SECTION:waka-->
   </td>
   <tr>
   <td width="50%">
@@ -40,16 +53,3 @@ hobbies: ["Competitive Gaming", "Scripting", "Creating Content", "Digital Design
   </td>
 
 </table>
-
-<!--START_SECTION:waka-->
-
-```yaml
-From: 05 November 2024 - To: 23 November 2024
-
-Total Time: 47 hrs 40 mins
-
-JavaScript   18 hrs 21 mins  >>>>>>>>>>---------------   38.49 %
-Other        9 hrs 27 mins   >>>>>--------------------   19.84 %
-```
-
-<!--END_SECTION:waka-->
