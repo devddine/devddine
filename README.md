@@ -3,7 +3,7 @@
  </div> 
 
    
-```yaml
+```rust
 name: Alae-EDdine Taoubane
 located_in: Marrakesh, Morocco
 from: Tan-Tan (Morocco)
@@ -20,7 +20,7 @@ hobbies: ["Competitive Gaming", "Scripting", "Creating Content", "Digital Design
 
 <!--START_SECTION:waka-->
 
-```yaml
+```rust
 From: 05 November 2024 - To: 23 November 2024
 
 Total Time: 47 hrs 40 mins
