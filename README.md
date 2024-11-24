@@ -110,6 +110,14 @@ Text         7 mins          -------------------------   00.25 %
 
 ###
 
+<div align="center">  
+<a href="https://dsc.bio/ddr1">
+  <img src="https://leetcard.jacoblin.cool/devddine?theme=dark&font=Cabin&ext=activity" width="100%" height="auto" />
+</a>
+</div> 
+
+###
+
 <h3 align="center">• • •</h3>
 
 ###
