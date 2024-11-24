@@ -43,33 +43,6 @@ hobbies: ["Competitive Gaming", "Scripting", "Creating Content", "Digital Design
 
 ###
 
-<p align="center">
-<!--START_SECTION:1-->
-
-```rust
-Total Time: 47 hrs 40 mins
-
-JavaScript   18 hrs 21 mins  >>>>>>>>>>---------------   38.49 %
-Other        9 hrs 27 mins   >>>>>--------------------   19.84 %
-CSS          6 hrs 24 mins   >>>----------------------   13.44 %
-YAML         4 hrs 5 mins    >>-----------------------   08.57 %
-JSON         3 hrs 7 mins    >>-----------------------   06.55 %
-HTML         2 hrs 55 mins   >>-----------------------   06.13 %
-Python       2 hrs 31 mins   >------------------------   05.30 %
-PHP          18 mins         -------------------------   00.65 %
-Markdown     13 mins         -------------------------   00.48 %
-Text         7 mins          -------------------------   00.25 %
-```
-
-<!--END_SECTION:1-->
-</p>
-
-###
-
-<h3 align="center">• • •</h3>
-
-###
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -111,9 +84,7 @@ Text         7 mins          -------------------------   00.25 %
 ###
 
 <div align="center">  
-<a href="https://dsc.bio/ddr1">
-  <img src="https://leetcard.jacoblin.cool/devddine?theme=dark&font=Cabin&ext=activity" width="100%" height="auto" />
-</a>
+
 </div> 
 
 ###
