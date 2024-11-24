@@ -43,4 +43,4 @@ hobbies: ["Competitive Gaming", "Scripting", "Creating Content", "Digital Design
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
+
