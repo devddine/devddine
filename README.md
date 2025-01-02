@@ -85,10 +85,7 @@ hobbies: ["Competitive Gaming", "Scripting", "Creating Content", "Digital Design
 
 <div align="center">  
 <a href="#">
-  <img src="https://stats.hyo.dev/api/github-stats?login=devddine" width="100%" height="auto" />
-</a>
-  <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=devddine&show_icons=true&theme=transparent" width="100%" height="auto" />
+  <img src="https://github-readme-stats.vercel.app/api?username=devddine&show_icons=true&theme=transparent&rank_icon=github&hide=prs,issues&custom_title=My%20GitHub%20Stats&border_radius=10&bg_color=151b22&text_color=5bb3fc&hide_border=true&title_color=fff&icon_color=fe8732" width="100%" height="auto" />
 </a>
 </div> 
 
@@ -100,7 +97,7 @@ hobbies: ["Competitive Gaming", "Scripting", "Creating Content", "Digital Design
 
 <div align="center">  
 <a href="#">
-  <img src="https://lanyard.cnrad.dev/api/772545220440227850?theme=dark&bg=000&animated=true&borderRadius=10px&hideProfile=true&idleMessage=Probably%20doing%20something%20else..." width="100%" height="auto" />
+  <img src="https://lanyard.cnrad.dev/api/772545220440227850?theme=dark&bg=151b22&animated=true&borderRadius=10px&hideProfile=true&idleMessage=Probably%20doing%20something%20else..." width="100%" height="auto" />
 </a>
 </div> 
 
