@@ -24,7 +24,7 @@
 name: Alae-EDdine Taoubane
 located_in: Casablanca, Morocco
 from: Tan-Tan (Morocco)
-job: Front-End Developer
+job: Full-stack developer
 education: ["Diploma's in Full Stack Development", "Licence's in Business Management",
               "bachelor's in Experimental Sciences"]
 fields_of_interests: ["Web Development", "Database Management", "API Integration", "Cloud Computing", 
