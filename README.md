@@ -44,19 +44,19 @@ hobbies: ["Competitive Gaming", "Scripting", "Creating Content", "Digital Design
 ###
 
 <div align="center">
-  <a href="" target="_blank"><img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" /></a>
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" /></a>
   <img width="12" />
-  <a href="" target="_blank"><img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" /></a>
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" /></a>
   <img width="12" />
-  <a href="" target="_blank"><img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" /></a>
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" /></a>
   <img width="12" />
-  <a href="" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" /></a>
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" /></a>
   <img width="12" />
-  <a href="" target="_blank"><img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" /></a>
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" /></a>
   <img width="12" />
-  <a href="" target="_blank"><img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" /></a>
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" /></a>
   <img width="12" />
-  <a href="" target="_blank"><img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" /></a>
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" /></a>
   <img width="12" />
   <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="githubactions logo" /></a>
   <img width="12" />
