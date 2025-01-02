@@ -44,37 +44,37 @@ hobbies: ["Competitive Gaming", "Scripting", "Creating Content", "Digital Design
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" /></a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" /></a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" /></a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" /></a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" /></a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" /></a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" /></a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="githubactions logo"  />
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="githubactions logo" /></a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo"  />
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo" /></a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" /></a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo" /></a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=regex" height="40" alt="regex logo"  />
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=regex" height="40" alt="regex logo" /></a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo" /></a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo" /></a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" /></a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=svg" height="40" alt="svg logo"  />
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=svg" height="40" alt="svg logo" /></a>
 </div>
 
 ###
@@ -84,7 +84,12 @@ hobbies: ["Competitive Gaming", "Scripting", "Creating Content", "Digital Design
 ###
 
 <div align="center">  
-
+<a href="#">
+  <img src="https://stats.hyo.dev/api/github-stats?login=devddine" width="100%" height="auto" />
+</a>
+  <a href="#">
+  <img src="https://github-readme-stats.vercel.app/api?username=devddine&show_icons=true&theme=transparent" width="100%" height="auto" />
+</a>
 </div> 
 
 ###
@@ -94,7 +99,7 @@ hobbies: ["Competitive Gaming", "Scripting", "Creating Content", "Digital Design
 ###
 
 <div align="center">  
-<a href="https://dsc.bio/ddr1">
+<a href="#">
   <img src="https://lanyard.cnrad.dev/api/772545220440227850?theme=dark&bg=000&animated=true&borderRadius=10px&hideProfile=true&idleMessage=Probably%20doing%20something%20else..." width="100%" height="auto" />
 </a>
 </div> 
@@ -106,7 +111,7 @@ hobbies: ["Competitive Gaming", "Scripting", "Creating Content", "Digital Design
 ###
 
 <div align="center">
-  <a href="mail:devddine@gmail.com" target="_blank">
+  <a href="mailto:devddine@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="40" alt="gmail logo"  />
   </a>
     <img width="12" />
