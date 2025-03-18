@@ -22,7 +22,7 @@
 
 ```rust
 name: Alae-EDdine Taoubane
-located_in: Casablanca, Morocco
+located_in: Marrakesh, Morocco
 from: Tan-Tan (Morocco)
 job: Full-stack developer
 education: ["Diploma's in Full Stack Development", "Licence's in Business Management",
