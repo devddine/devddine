@@ -25,13 +25,12 @@ name: Alae-EDdine Taoubane
 located_in: Casablanca, Morocco
 from: Tan-Tan (Morocco)
 job: Full-stack developer
-education: ["Diploma's in Full Stack Development", "Licence's in Business Management",
-              "bachelor's in Experimental Sciences"]
+education: ["Diploma's in Full Stack Development", "Licence's in Business Management"]
 fields_of_interests: ["Web Development", "Database Management", "API Integration", "Cloud Computing", 
                       "UI/UX Design", "Machine Learning", "Testing and Debugging"]
 technical_background: ["Frontend Development", "Backend Development", "Version Control", "Databases"]
-currently_learning: ["JavaScript", "Node.js", "Python"]
-will_learn: ["React", "Next.js", "TypeScript"]
+currently_learning: ["Advanced JavaScript", "Taillwind", "TypeScript", "ReactJS"]
+will_learn: ["MongoDB", "NodeJS", "ExpressJS"]
 hobbies: ["Competitive Gaming", "Scripting", "Creating Content", "Digital Designer"]
 ```
 
