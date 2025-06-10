@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <a href="#"><img src="https://i.postimg.cc/R00pxS0c/image4.jpg" /></a>
+  <a href="#"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/79731568097599.5b50bca477735.jpg" /></a>
 </div>
 
 <div align="center">
@@ -23,7 +23,6 @@
 ```rust
 name: Alae-EDdine Taoubane
 located_in: Casablanca, Morocco
-from: Tan-Tan (Morocco)
 job: Full-stack developer
 education: ["Diploma's in Full Stack Development", "Licence's in Business Management"]
 fields_of_interests: ["Web Development", "Cloud Computing", "UI/UX Design", "Machine Learning"]
