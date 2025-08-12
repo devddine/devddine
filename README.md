@@ -1,6 +1,7 @@
 
 <div align="center">
-  <img align="center" src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+  <img align="center" src="https://discord.com/api/guilds/827945236218904627/widget.png?style=shield" height="25" alt="<Code/> Discord Server"  />
+  
 </div>
 
 <div align="center">
@@ -9,7 +10,7 @@
 
 <div align="center">
   <img align="right" src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
-  <img align="left" src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=000&logoColor=white&labelColor=000&style=for-the-badge" height="25" alt="behance logo"  />
+  <img align="left" src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
 </div>
 
 ###
@@ -96,6 +97,18 @@ hobbies: ["Competitive Gaming", "Scripting", "Creating Content", "Digital Design
 <div align="center">  
 <a href="#">
   <img src="https://lanyard.cnrad.dev/api/772545220440227850?theme=dark&bg=151b22&animated=true&borderRadius=10px&hideProfile=true&idleMessage=Probably%20doing%20something%20else..." width="100%" height="auto" />
+</a>
+</div>
+
+###
+
+<h3 align="center">• • •</h3>
+
+###
+
+<div align="center">  
+<a href="#">
+  <img src="https://discord.com/api/guilds/827945236218904627/widget.png?style=shield" width="100%" height="auto" />
 </a>
 </div> 
 
