@@ -1,4 +1,4 @@
-
+                                    
 <div align="center">
   <a href="https://discord.gg/UPyggZ2cK8" target="_blank"><img align="center" src="https://img.shields.io/discord/827945236218904627?style=flat-square&logo=discord&logoColor=white&logoSize=auto&label=%20&labelColor=black&color=black&link=https%3A%2F%2Fdiscord.gg%2FUPyggZ2cK8" height="25" alt="<Code/> Server"  /></a>
 </div>
@@ -98,18 +98,6 @@ hobbies: ["Competitive Gaming", "Scripting", "Creating Content", "Digital Design
   <img src="https://lanyard.cnrad.dev/api/772545220440227850?theme=dark&bg=151b22&animated=true&borderRadius=10px&hideProfile=true&idleMessage=Probably%20doing%20something%20else..." width="100%" height="auto" />
 </a>
 </div>
-
-###
-
-<h3 align="center">• • •</h3>
-
-###
-
-<div align="center">  
-<a href="#">
-  <img src="https://discord.com/api/guilds/827945236218904627/widget.png?style=shield" width="100%" height="auto" />
-</a>
-</div> 
 
 ###
 
