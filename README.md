@@ -1,7 +1,6 @@
 
 <div align="center">
-  <img align="center" src="https://discord.com/api/guilds/827945236218904627/widget.png?style=shield" height="25" alt="<Code/> Discord Server"  />
-  
+  <img align="center" src="https://img.shields.io/discord/827945236218904627?style=flat-square&logo=discord&logoColor=white&logoSize=auto&label=%20&labelColor=black&color=black" height="25" alt="<Code/> Server"  />
 </div>
 
 <div align="center">
